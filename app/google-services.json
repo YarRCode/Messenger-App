@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544529827363",
+    "project_id": "messengerfirestore",
+    "storage_bucket": "messengerfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544529827363:android:c4fb738b9f61e357a81396",
+        "android_client_info": {
+          "package_name": "com.firestoremessenger.messengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544529827363-pfg0kbopjamch8rn5uca0cb61ulifihi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0PXCgpryymCKTDus2pFA_q9R_HTbHFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544529827363-pfg0kbopjamch8rn5uca0cb61ulifihi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
